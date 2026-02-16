@@ -121,6 +121,24 @@ root
 
 ---
 
+## 🧩 Components
+
+### ESP32
+![ESP32](assets/images/esp32.png)
+
+### MFRC522 Reader
+![MFRC522](assets/images/Reader-Writer-RFID-MFRC522-Module.webp)
+
+### RFID Cards / Tags
+![RFID Tags](assets/images/RFID-MFRC522-Card-Tags-Keychain.webp)
+
+### I2C LCD
+![LCD](assets/images/i2c_LCD.jpg)
+
+### Buzzer
+![Buzzer](assets/images/buzzer.jpg)
+---
+
 ## 🎯 Key Engineering Concepts
 
 - State machine based flow  
