@@ -82,11 +82,9 @@ dashboard/ → Flutter web admin panel
 | GND | GND | Ground |
 
 ---
-## ☁️ Database Design
+## ☁️ Realtime Database Structure
 
 Main collections:
-
-## ☁️ Realtime Database Structure
 
 ```text
 root
