@@ -113,10 +113,11 @@ root
         └── time: 17345
 ```
 
-handlers → authorized people
-items → inventory master
-logs → movement history
-
+| Node | Purpose |
+|------|---------|
+| handlers | authorized people |
+| items | inventory master |
+| logs | movement history |
 
 ---
 
