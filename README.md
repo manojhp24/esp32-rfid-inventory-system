@@ -86,6 +86,35 @@ dashboard/ → Flutter web admin panel
 
 Main collections:
 
+## ☁️ Realtime Database Structure
+
+```text
+root
+├── handlers
+│   └── 657A7C5
+│       ├── cardUid: "657A7C5"
+│       ├── name: "manoj h p"
+│       ├── role: "shopkeeper"
+│       ├── status: "authorized"
+│       └── updatedAt: "2026-02-16T17:55:47.589"
+│
+├── items
+│   └── 3A7874
+│       ├── uid: "3A7874"
+│       ├── name: "laptop"
+│       ├── category: "electronics"
+│       ├── location: "IN"
+│       ├── status: "active"
+│       └── createdAt: "2026-02-16T17:56:46.405"
+│
+└── logs
+    └── 16014
+        ├── action: "IN"
+        ├── handler: "657A7C5"
+        ├── item: "3A7874"
+        └── time: 17345
+```
+
 handlers → authorized people
 items → inventory master
 logs → movement history
