@@ -139,7 +139,7 @@ root
 ![Buzzer](assets/images/buzzer.jpg)
 
 ### Demo
-![Demo](assets/images/demo2.jpg)
+![Demo](assets/images/demo2.JPG)
 
 ---
 
