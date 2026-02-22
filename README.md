@@ -1,4 +1,10 @@
 # ESP32 RFID Inventory System
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-red?style=for-the-badge&logo=espressif&logoColor=white)
+![RFID](https://img.shields.io/badge/RFID-MFRC522-blue?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-Web%20Dashboard-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Framework-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A real-time inventory tracking system built using **ESP32**, **RFID**, **Firebase Realtime Database**, and a **Flutter web dashboard**.
 
